@@ -2,6 +2,9 @@
 
 L'objectif du TP est d'utiliser les outils JFlex et CUP pour générer des arbres abstraits correspondant à un sous ensemble du langage **λ-ada**.
 
+## Note: 
+- Ce répertoire git contient le TP2 de Compilation (INFO703) de Rémi Matrod et Virgile Jacquet.
+
 ## Exercice 1 :
 
 Utiliser JFlex et CUP pour générer l'arbre abstrait correspondant à l'analyse d'expressions arithmétiques sur les nombres entiers.
